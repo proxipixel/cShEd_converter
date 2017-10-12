@@ -1,0 +1,6 @@
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\bin\Debug\converter.exe.config
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\bin\Debug\converter.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\bin\Debug\converter.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\obj\Debug\converter.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\obj\Debug\converter.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\obj\Debug\converter.csprojResolveAssemblyReference.cache
