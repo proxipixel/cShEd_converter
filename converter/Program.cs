@@ -52,7 +52,7 @@ namespace ConsoleApplication
                     }
 
                     if (currChoise1 == currChoise2)
-                        Console.WriteLine("\nLooks like you've selected the same currency twice !\n\nFeeling lucky to try with various currencies ?");
+                        Console.WriteLine("\nLooks like you've selected the same currency twice !\n\nFeeling lucky to try various currencies ?");
                 } while (currChoise1 == currChoise2);
 
                 //computation and displaying of an outcome depending on options previously have been chosen by user
