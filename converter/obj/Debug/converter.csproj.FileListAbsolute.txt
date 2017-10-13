@@ -4,3 +4,9 @@ C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter
 C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\obj\Debug\converter.exe
 C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\obj\Debug\converter.pdb
 C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\converter\converter\obj\Debug\converter.csprojResolveAssemblyReference.cache
+D:\projects\git_dir\cShEd_converter\converter\bin\Debug\converter.exe.config
+D:\projects\git_dir\cShEd_converter\converter\obj\Debug\converter.exe
+D:\projects\git_dir\cShEd_converter\converter\obj\Debug\converter.pdb
+D:\projects\git_dir\cShEd_converter\converter\bin\Debug\converter.exe
+D:\projects\git_dir\cShEd_converter\converter\bin\Debug\converter.pdb
+D:\projects\git_dir\cShEd_converter\converter\obj\Debug\converter.csprojResolveAssemblyReference.cache
